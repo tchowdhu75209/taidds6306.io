@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "About Me"
+  left:
+    - text: "Home"
+      href: AboutMe.html
+    - text: "Beers"
+      href: Beers.html
