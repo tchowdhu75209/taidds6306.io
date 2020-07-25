@@ -3,6 +3,6 @@ navbar:
   title: "About Me"
   left:
     - text: "Home"
-      href: AboutMe.html
+      href: index.html
     - text: "Beers"
-      href: Beers.html
+      href: newbeer.html
